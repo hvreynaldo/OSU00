@@ -21,7 +21,7 @@ const HeroContent: FC = () => (
         <h2 className="text-4xl md:text-5xl font-bold text-[#FF6600] tracking-wide leading-tight">
           AI Art Show on January 30th
           <br />
-          <span className="text-3xl md:text-4xl">at Morgan Building</span>
+          <span className="text-3xl md:text-4xl">at Mike Morgan Building</span>
         </h2>
       </div>
     </div>
